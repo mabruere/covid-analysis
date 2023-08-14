@@ -1,6 +1,6 @@
 # COVID-19 Vaccination Data Visualization
 
-This repository contains R code for visualizing COVID-19 vaccination data using the `tidyverse`, `data.table`, `Hmisc`, and `ggplot2` packages. The code reads vaccination data from a CSV file and creates visualizations to show the percentage of vaccinated people in the Netherlands and other selected countries over time.
+This repository contains R code for visualizing COVID-19 vaccination data. The code reads vaccination data from a CSV file and creates visualizations to show the percentage of vaccinated people in the Netherlands and other selected countries over time.
 
 ## Overview
 
